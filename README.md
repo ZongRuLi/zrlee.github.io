@@ -7,7 +7,7 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
   </tr>
   <tr>
     <td>6/2020-11/2020</td>
-    <td>**ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan*</td>
+    <td><b>ASIC Engineer Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
   </tr>
   <tr>
     <td colspan="2">•	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>• Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>• Checked whether the clock domain crossing occurs in the pre-verified synchronizor.</td>
