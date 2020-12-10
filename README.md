@@ -2,7 +2,7 @@
 Computer Engineering, particularly in computer architecture and VLSI systems.
 
 # EDUCATION
-<table>
+<table style="max-width: 100%; ">
   <tr>
     <td><b>B.S. in Electrical and Computer Engineering</b><br><i>National Chiao Tung University, Taiwan</i><br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3 rank: 8/34</td>
     <td>9/2016-6/2020</td>
