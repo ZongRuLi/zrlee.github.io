@@ -4,16 +4,16 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 # EDUCATION
 <table>
   <tr>
-    <td>9/2016-6/2020</td>
     <td><b>B.S. in Electrical and Computer Engineering</b><br><i>National Chiao Tung University, Taiwan</i><br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3</td>
+    <td>9/2016-6/2020</td>
   </tr>
 </table>
 
 # EMPLOYMENT
 <table>
   <tr>
-    <td>6/2020-11/2020</td>
     <td><b>ASIC Engineer Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
+    <td>6/2020-11/2020</td>
   </tr>
   <tr>
     <td colspan="2">
@@ -23,8 +23,8 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
     </td>
   </tr>
   <tr>
-    <td>7/2019-8/2019</td>
     <td><b>SOC/FPGA Validation Intern</b><br><i>Phison Electronics Crop., Miaoli, Taiwan</i></td>
+    <td>7/2019-8/2019</td>
   </tr>
     <tr>
     <td colspan="2">
@@ -34,8 +34,8 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
     </td>
   </tr>
   <tr>
-    <td>7/2018-8/2018</td>
     <td><b>Teaching Assistant of Python Course</b><br><i>NCTU summer school, Hsinchu, Taiwan</i></td>
+    <td>7/2018-8/2018</td>
   </tr>
   <td colspan="2">
 •	Presented lab instruction to 50-60 students in the undergraduate course.
