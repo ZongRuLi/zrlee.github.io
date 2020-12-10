@@ -6,6 +6,7 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 
 | **B.S. in Electrical and Computer Engineering**<br>*National Chiao Tung University, Taiwan*<br>- overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3 | 9/2016-7/2020 | |
 |:-------------|:------------------|:------|
+| | |
 
 # EMPLOYMENT
 
@@ -47,4 +48,4 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 | Programming Language        | C, C++, Python          |  |
 | HDL Language           | Verilog, System Verilog |   |
 | Scripting Skill | Makefile, Bash Shell, Tcl Shell   |   |
-| EDA tools           | Synopsys VCS Simulator, Verdi, Design Compiler, Spyglass CDC, <br>  Cadence JasperGold, Cadence Innovus, Xilinx Vivado, Eclipse IDE for ARM&STM     |    |
+| EDA tools           | Synopsys VCS Simulator, Verdi, Design Compiler, <br>Spyglass CDC, Cadence JasperGold, Cadence Innovus, <br>Xilinx Vivado, Eclipse IDE for ARM&STM     |    |
