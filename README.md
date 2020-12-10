@@ -3,7 +3,7 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 
 <table>
   <tr>
-    <td colspan="2">EMPLOYMENT</td>
+    <td colspan="2"><b>EMPLOYMENT</b></td>
   </tr>
   <tr>
     <td>6/2020-11/2020</td>
