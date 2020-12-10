@@ -45,10 +45,9 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 </table>
 
 # LEADERSHIP EXPERIENCE
-
 <table>
   <tr>
-    <td><b>Vice Minister</b><br><i>Student Academic Association, Department of ECE, NCTU<i></td>
+    <td><b>Vice Minister</b><br><i>Student Academic Association, Department of ECE, NCTU</i></td>
     <td>2018-2019</td>
   </tr>
   <tr>
