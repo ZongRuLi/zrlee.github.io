@@ -3,23 +3,26 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 
 # EDUCATION
 
-9/2016-7/2020 | B.S. in Electrical and Computer Engineering, National Chiao Tung University, Taiwan <br> - overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3
---- | --- 
+9/2016-7/2020 | B.S. in Electrical and Computer Engineering, National Chiao Tung University, Taiwan
+- overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3
 
 
 # EMPLOYMENT
 
-6/2020-11/2020 | **ASIC Engineer Intern**, Sunplus Technology Crop, Hsinchu, Taiwan
+6/2020-11/2020 | **ASIC Engineer Intern**
+*Sunplus Technology Crop, Hsinchu, Taiwan*
 - Developed both C and RTL behavior modules in C/RTL co-simulate verification.
 -	Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.
 -	Checked whether the clock domain crossing occurs in the pre-verified synchronizor.
 
-7/2019-8/2019	| **SOC/FPGA Validation Intern**, Phison Electronics Crop., Miaoli, Taiwan
+7/2019-8/2019	| **SOC/FPGA Validation Intern**
+*Phison Electronics Crop., Miaoli, Taiwan*
 -	Developed firmware patterns on the CPU/FPGA platform for system-level validation.
 -	Identified obscured errors in the block-level and fixed those errors.
 -	Collaborated with hardware engineers to debug silicon issues exposed during testing.
 
-7/2018-8/2018	| **Teaching Assistant of Python Course**, NCTU summer school, Hsinchu, Taiwan
+7/2018-8/2018	| **Teaching Assistant of Python Course**
+*NCTU summer school, Hsinchu, Taiwan*
 -	Presented lab instruction to 50-60 students in the undergraduate course.
 
 # LEADERSHIP EXPERIENCE
@@ -39,9 +42,8 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 -	Integrated design through IC Design flow in the industry and passed the post-layout simulation.
 
 # TECHNICAL SKILLS
- Programming Language | C, C++, Python
- --- | --- 
- HDL Language | Verilog, System Verilog
- Scripting Skill | Makefile, Bash Shell, Tcl Shell
- EDA tools | Synopsys VCS Simulator, Verdi, Design Compiler, Spyglass CDC, <br>  Cadence JasperGold, Cadence Innovus, Xilinx Vivado, Eclipse IDE for ARM&STM   | 
-
+| Programming Language        | C, C++, Python          |  |
+|:-------------|:------------------|:------|
+| HDL Language           | Verilog, System Verilog |   |
+| Scripting Skill | Makefile, Bash Shell, Tcl Shell   |   |
+| EDA tools           | Synopsys VCS Simulator, Verdi, Design Compiler, Spyglass CDC, <br>  Cadence JasperGold, Cadence Innovus, Xilinx Vivado, Eclipse IDE for ARM&STM     |    |
