@@ -9,20 +9,17 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 
 # EMPLOYMENT
 
-6/2020-11/2020 | **ASIC Engineer Intern**
-*Sunplus Technology Crop, Hsinchu, Taiwan*
+6/2020-11/2020 | **ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan*
 - Developed both C and RTL behavior modules in C/RTL co-simulate verification.
 -	Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.
 -	Checked whether the clock domain crossing occurs in the pre-verified synchronizor.
 
-7/2019-8/2019	| **SOC/FPGA Validation Intern**
-*Phison Electronics Crop., Miaoli, Taiwan*
+7/2019-8/2019	| **SOC/FPGA Validation Intern**<br>*Phison Electronics Crop., Miaoli, Taiwan*
 -	Developed firmware patterns on the CPU/FPGA platform for system-level validation.
 -	Identified obscured errors in the block-level and fixed those errors.
 -	Collaborated with hardware engineers to debug silicon issues exposed during testing.
 
-7/2018-8/2018	| **Teaching Assistant of Python Course**
-*NCTU summer school, Hsinchu, Taiwan*
+7/2018-8/2018	| **Teaching Assistant of Python Course**<br>*NCTU summer school, Hsinchu, Taiwan*
 -	Presented lab instruction to 50-60 students in the undergraduate course.
 
 # LEADERSHIP EXPERIENCE
