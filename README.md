@@ -3,6 +3,16 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 
 <table>
   <tr>
+    <td colspan="2"><b>EDUCATION</b></td>
+  </tr>
+  <tr>
+    <td>9/2016-6/2020</td>
+    <td><b>B.S. in Electrical and Computer Engineering</b><br><i>National Chiao Tung University, Taiwan</i><br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td colspan="2"><b>EMPLOYMENT</b></td>
   </tr>
   <tr>
@@ -13,10 +23,6 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
     <td colspan="2">•	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>• Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>• Checked whether the clock domain crossing occurs in the pre-verified synchronizor.</td>
   </tr>
 </table>
-
-| EDUCATION ||
-|:-------------|:------------------|
-| 9/2016-7/2020 | **B.S. in Electrical and Computer Engineering**<br>*National Chiao Tung University, Taiwan*<br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3 | |
 
 | EMPLOYMENT | |
 |:-------------|:------------------|
