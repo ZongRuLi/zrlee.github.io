@@ -37,21 +37,25 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
     <td><b>Teaching Assistant of Python Course</b><br><i>NCTU summer school, Hsinchu, Taiwan</i></td>
     <td>7/2018-8/2018</td>
   </tr>
+  <tr>
   <td colspan="2">
 •	Presented lab instruction to 50-60 students in the undergraduate course.
-    </td>
+  </td>
+  </tr>
 </table>
 
 # LEADERSHIP EXPERIENCE
 
 <table>
-  <td>
-    <tr>Vice Minister, Student Academic Association, Department of ECE, NCTU</tr>
-    <tr>2018-2019</tr>
-  </td>
+  <tr>
+    <td>Vice Minister, Student Academic Association, Department of ECE, NCTU</td>
+    <td>2018-2019</td>
+  </tr>
+  <tr>
   <td colspan="2">
 •	Established a study guide platform, which has over 3000 viewers each semester, and introduced fellow students to a variety of research groups within the ECE department.
   </td>
+  </tr>
 </table>
 
 # RESEARCH  EXPERIENCE
