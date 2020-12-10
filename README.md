@@ -15,24 +15,32 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
     <td>6/2020-11/2020</td>
     <td><b>ASIC Engineer Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
   </tr>
-</table>
+  <tr>
+    <td colspan="2">
 •	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>
 • Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>
 • Checked whether the clock domain crossing occurs in the pre-verified synchronizor.
-
-
-| EMPLOYMENT | |
-|:-------------|:------------------|
-| 6/2020-11/2020 | **ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan* |
-|| •	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>• Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>• Checked whether the clock domain crossing occurs in the pre-verified synchronizor. |
-
-7/2019-8/2019	| **SOC/FPGA Validation Intern**<br>*Phison Electronics Crop., Miaoli, Taiwan*
--	Developed firmware patterns on the CPU/FPGA platform for system-level validation.
--	Identified obscured errors in the block-level and fixed those errors.
--	Collaborated with hardware engineers to debug silicon issues exposed during testing.
-
-7/2018-8/2018	| **Teaching Assistant of Python Course**<br>*NCTU summer school, Hsinchu, Taiwan*
--	Presented lab instruction to 50-60 students in the undergraduate course.
+    </td>
+  </tr>
+  <tr>
+    <td>7/2019-8/2019</td>
+    <td><b>SOC/FPGA Validation Intern</b><br><i>Phison Electronics Crop., Miaoli, Taiwan</i></td>
+  </tr>
+    <tr>
+    <td colspan="2">
+•	Developed firmware patterns on the CPU/FPGA platform for system-level validation.<br>
+•	Identified obscured errors in the block-level and fixed those errors.<br>
+•	Collaborated with hardware engineers to debug silicon issues exposed during testing.
+    </td>
+  </tr>
+  <tr>
+    <td>7/2018-8/2018</td>
+    <td><b>Teaching Assistant of Python Course</b><br><i>NCTU summer school, Hsinchu, Taiwan</i></td>
+  </tr>
+  <td colspan="2">
+•	Presented lab instruction to 50-60 students in the undergraduate course.
+    </td>
+</table>
 
 # LEADERSHIP EXPERIENCE
 
