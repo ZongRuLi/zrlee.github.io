@@ -2,13 +2,13 @@
 Computer Engineering, particularly in computer architecture and VLSI systems.
 
 
-| EDUCATION | | |
-|:-------------|:------------------|:------|
-| **B.S. in Electrical and Computer Engineering**<br>*National Chiao Tung University, Taiwan*<br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3 | | 9/2016-7/2020 |
+| EDUCATION | |
+|:-------------|:------------------|
+| 9/2016-7/2020 | **B.S. in Electrical and Computer Engineering**<br>*National Chiao Tung University, Taiwan*<br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3 | |
 
 | EMPLOYMENT | |
 |:-------------|:------------------|
-| **ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan*<br>•	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>•	Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>•	Checked whether the clock domain crossing occurs in the pre-verified synchronizor. | 6/2020-11/2020 |
+| 6/2020-11/2020 | **ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan*<br>•	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>•	Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>•	Checked whether the clock domain crossing occurs in the pre-verified synchronizor.|
 
 7/2019-8/2019	| **SOC/FPGA Validation Intern**<br>*Phison Electronics Crop., Miaoli, Taiwan*
 -	Developed firmware patterns on the CPU/FPGA platform for system-level validation.
