@@ -1,15 +1,18 @@
 # AREA OF INTEREST
 Computer Engineering, particularly in computer architecture and VLSI systems.
 
-|              Stage | Direct Products | ATP Yields |
-| -----------------: | --------------: | ---------: |
-|         Glycolysis |          2 ATP              ||
-| ^^                 |          2 NADH |   3--5 ATP |
-| Pyruvaye oxidation |          2 NADH |      5 ATP |
-|  Citric acid cycle |          2 ATP              ||
-| ^^                 |          6 NADH |     15 ATP |
-| ^^                 |          2 FADH |      3 ATP |
-|                               30--32 ATP        |||
+<table>
+  <tr>
+    <td colspan="2">EMPLOYMENT</td>
+  </tr>
+  <tr>
+    <td>6/2020-11/2020</td>
+    <td>**ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan*</td>
+  </tr>
+  <tr>
+    <td colspan="2">•	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>• Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>• Checked whether the clock domain crossing occurs in the pre-verified synchronizor.</td>
+  </tr>
+</table>
 
 | EDUCATION ||
 |:-------------|:------------------|
