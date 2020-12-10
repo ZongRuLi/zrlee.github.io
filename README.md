@@ -46,6 +46,5 @@ Integrated Circuit Design Laboratory
 | ------------- |:-------------:| 
 | HDL Language:     | Verilog, System Verilog | 
 | Scripting Skill:     | Makefile, Bash Shell, Tcl Shell      | 
-| EDA tools: | Synopsys VCS Simulator, Verdi, Design Compiler, Spyglass CDC,      | 
-|  | Cadence JasperGold, Cadence Innovus, Xilinx Vivado, Eclipse IDE for ARM&STM      | 
+| EDA tools: | Synopsys VCS Simulator, Verdi, Design Compiler, Spyglass CDC, <br>  Cadence JasperGold, Cadence Innovus, Xilinx Vivado, Eclipse IDE for ARM&STM   | 
 
