@@ -44,8 +44,15 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 
 # LEADERSHIP EXPERIENCE
 
-2018-2019	| Vice Minister, Student Academic Association, Department of ECE, NCTU
--	Established a study guide platform, which has over 3000 viewers each semester, and introduced fellow students to a variety of research groups within the ECE department.
+<table>
+  <td>
+    <tr>Vice Minister, Student Academic Association, Department of ECE, NCTU</tr>
+    <tr>2018-2019</tr>
+  </td>
+  <td colspan="2">
+•	Established a study guide platform, which has over 3000 viewers each semester, and introduced fellow students to a variety of research groups within the ECE department.
+  </td>
+</table>
 
 # RESEARCH  EXPERIENCE
 
