@@ -27,17 +27,20 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
 -	Established a study guide platform, which has over 3000 viewers each semester, and introduced fellow students to a variety of research groups within the ECE department.
 
 # RESEARCH  EXPERIENCE
+
 **APPLIED CNN MODEL ON NON-INVASIVE GLUCOSE PREDICTION**<br>*System Integration and Silicon Implementation Group, NCTU*
 -	Maintained embeded system on wearable devices to control the biosensor, the monitor, and Bluetooth.
 -	Developed algorithms to preprocess data into the dataset and trained the CNN model.
 
 # COURSE PROJECT
+
 **CUSTOMIZED ISA PROCESSOR**<br>*Integrated Circuit Design Laboratory*
 -	Designed a two-core CPU with the AXI DRAM controller.
 -	Designed LRU Cache in the memory controller and boosted the system’s throughput by 50%.
 -	Integrated design through IC Design flow in the industry and passed the post-layout simulation.
 
 # TECHNICAL SKILLS
+
 | Programming Language        | C, C++, Python          |  |
 |:-------------|:------------------|:------|
 | HDL Language           | Verilog, System Verilog |   |
