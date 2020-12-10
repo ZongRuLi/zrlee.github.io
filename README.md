@@ -1,40 +1,15 @@
 # AREA OF INTEREST
 Computer Engineering, particularly in computer architecture and VLSI systems.
 
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
 
-| EDUCATION | |
+| EDUCATION ||
 |:-------------|:------------------|
 | 9/2016-7/2020 | **B.S. in Electrical and Computer Engineering**<br>*National Chiao Tung University, Taiwan*<br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3 | |
 
 | EMPLOYMENT | |
 |:-------------|:------------------|
-| 6/2020-11/2020 | **ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan*<br>•	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>•	Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>•	Checked whether the clock domain crossing occurs in the pre-verified synchronizor.|
+| 6/2020-11/2020 | **ASIC Engineer Intern**<br>*Sunplus Technology Crop, Hsinchu, Taiwan* |
+| •	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>• Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>• Checked whether the clock domain crossing occurs in the pre-verified synchronizor.||
 
 7/2019-8/2019	| **SOC/FPGA Validation Intern**<br>*Phison Electronics Crop., Miaoli, Taiwan*
 -	Developed firmware patterns on the CPU/FPGA platform for system-level validation.
