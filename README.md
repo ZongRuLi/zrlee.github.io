@@ -1,6 +1,6 @@
 # Resume
 ## Area of Interest
-Computer Engineering, particularly in computer architecture and VLSI systems.
+digital IC design/verification or system-level C modeling.
 
 ## Education
 <table style="max-width: 100%; ">
