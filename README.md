@@ -1,7 +1,8 @@
-# AREA OF INTEREST
+# Resume
+## Area of Interest
 Computer Engineering, particularly in computer architecture and VLSI systems.
 
-# EDUCATION2
+## Education
 <table style="max-width: 100%; ">
   <tr>
     <td><b>B.S. in Electrical and Computer Engineering</b><br><i>National Chiao Tung University, Taiwan</i><br> •	overall GPA: 3.89/4.3; Last 60 GPA: 4.07/4.3 rank: 8/34</td>
@@ -9,7 +10,7 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
   </tr>
 </table>
 
-# EMPLOYMENT
+## Employment
 <table>
   <tr>
     <td><b>ASIC Engineer Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
@@ -19,7 +20,7 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
     <td colspan="2">
 •	Developed both C and RTL behavior modules in C/RTL co-simulate verification.<br>
 • Synthesized RTL to netlists. Edited constrain and identified the path with timing violation.<br>
-• Checked whether the clock domain crossing occurs in the pre-verified synchronizor.
+• Checked whether the clock domain crossing occurs in the pre-verified synchronizer.
     </td>
   </tr>
   <tr>
@@ -44,7 +45,7 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
   </tr>
 </table>
 
-# LEADERSHIP EXPERIENCE
+## Leadership Experience
 <table>
   <tr>
     <td><b>Vice Minister</b><br><i>Student Academic Association, Department of ECE, NCTU</i></td>
@@ -57,20 +58,20 @@ Computer Engineering, particularly in computer architecture and VLSI systems.
   </tr>
 </table>
 
-# RESEARCH  EXPERIENCE
+## Research Experience
 
 **APPLIED CNN MODEL ON NON-INVASIVE GLUCOSE PREDICTION**<br>*System Integration and Silicon Implementation Group, NCTU*
--	Maintained embeded system on wearable devices to control the biosensor, the monitor, and Bluetooth.
+-	Maintained embedded system on wearable devices to control the biosensor, the monitor, and Bluetooth.
 -	Developed algorithms to preprocess data into the dataset and trained the CNN model.
 
-# COURSE PROJECT
+## Course Project
 
 **CUSTOMIZED ISA PROCESSOR**<br>*Integrated Circuit Design Laboratory*
 -	Designed a two-core CPU with the AXI DRAM controller.
 -	Designed LRU Cache in the memory controller and boosted the system’s throughput by 50%.
 -	Integrated design through IC Design flow in the industry and passed the post-layout simulation.
 
-# TECHNICAL SKILLS
+## Technical Skills
 
 | Field | Skill | |
 |:-------------|:------------------|:------|
