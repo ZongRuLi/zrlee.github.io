@@ -58,13 +58,13 @@
 
 ## Research Experience
 
-**APPLIED CNN MODEL ON NON-INVASIVE GLUCOSE PREDICTION**<br>*System Integration and Silicon Implementation Group, NCTU*
+**Applied CNN Model on Non-Invasive Glucose Prediction**<br>*System Integration and Silicon Implementation Group, NCTU*
 -	Maintained embedded system on wearable devices to control the biosensor, the monitor, and Bluetooth.
 -	Developed algorithms to preprocess data into the dataset and trained the CNN model.
 
 ## Course Project
 
-**CUSTOMIZED ISA PROCESSOR**<br>*Integrated Circuit Design Laboratory*
+**Customized ISA Processor**<br>*Integrated Circuit Design Laboratory*
 -	Designed a two-core CPU with the AXI DRAM controller.
 -	Designed LRU Cache in the memory controller and boosted the system’s throughput by 50%.
 -	Integrated design through IC Design flow in the industry and passed the post-layout simulation.
