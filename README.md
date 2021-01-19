@@ -1,6 +1,4 @@
 # Resume
-## Area of Interest
-digital IC design/verification or system-level C modeling.
 
 ## Education
 <table style="max-width: 100%; ">
@@ -13,7 +11,7 @@ digital IC design/verification or system-level C modeling.
 ## Employment
 <table>
   <tr>
-    <td><b>ASIC Engineer Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
+    <td><b>Digital IC Design Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
     <td>6/2020-11/2020</td>
   </tr>
   <tr>
@@ -24,7 +22,7 @@ digital IC design/verification or system-level C modeling.
     </td>
   </tr>
   <tr>
-    <td><b>SOC/FPGA Validation Intern</b><br><i>Phison Electronics Crop., Miaoli, Taiwan</i></td>
+    <td><b>System Validation Intern</b><br><i>Phison Electronics Crop., Miaoli, Taiwan</i></td>
     <td>7/2019-8/2019</td>
   </tr>
     <tr>
