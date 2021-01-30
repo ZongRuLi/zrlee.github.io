@@ -1,4 +1,4 @@
-# Resume
+# Zong-Ru Li
 
 ## Education
 <table style="max-width: 100%; ">
