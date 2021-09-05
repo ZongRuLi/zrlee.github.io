@@ -11,7 +11,7 @@
 ## Employment
 <table>
   <tr>
-    <td><b>Digital IC Design Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
+    <td><b>RTL Design Intern</b><br><i>Sunplus Technology Crop, Hsinchu, Taiwan</i></td>
     <td>6/2020-11/2020</td>
   </tr>
   <tr>
@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>System Validation Intern</b><br><i>Phison Electronics Crop., Miaoli, Taiwan</i></td>
+    <td><b>Firmware Validation Intern</b><br><i>Phison Electronics Crop., Miaoli, Taiwan</i></td>
     <td>7/2019-8/2019</td>
   </tr>
     <tr>
